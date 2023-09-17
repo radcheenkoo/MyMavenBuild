@@ -13,7 +13,7 @@
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<lombok.version>1.18.8</lombok.version>
+		<lombok.version>1.18.28</lombok.version>
 		<test.util.version>1.0.5</test.util.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<main.class>org.example.App</main.class>
